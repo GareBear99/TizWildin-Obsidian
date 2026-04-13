@@ -2,8 +2,6 @@
 
 A dark cinematic sample pack centered on ruined-cathedral choir textures, menu-loop material, transitions, bass movement, atmosphere, melodic layers, drums, and an electric-banjo extension.
 
-This additive package is designed to be dropped **into the existing repo without changing any uploaded files or folder names**.
-
 ## What is in the current pack
 
 - **76 WAV assets** total
