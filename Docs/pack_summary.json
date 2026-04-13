@@ -1,0 +1,22 @@
+{
+  "repo_name": "TizWildin-Obsidian",
+  "wav_file_count": 76,
+  "preservation_mode": "additive_only_keep_all_uploads_same",
+  "category_counts": {
+    "Atmos": 2,
+    "Bass": 10,
+    "Drums": 2,
+    "E-Banjo": 6,
+    "Full_Loops": 10,
+    "Melodic": 6,
+    "OneShots": 6,
+    "One_Shots": 15,
+    "Textures": 11,
+    "Transitions": 8
+  },
+  "notes": [
+    "Existing uploads and folder names preserved exactly as provided.",
+    "Inventory generated from current zip contents.",
+    "No sample relocation or renaming performed in this package."
+  ]
+}
