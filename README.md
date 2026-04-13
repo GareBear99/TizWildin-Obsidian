@@ -45,8 +45,4 @@ This additive package is designed to be dropped **into the existing repo without
 - a lightweight validator script that checks the expected pack contents
 - `.gitignore` tuned for macOS archive junk and Python cache files
 
-## Notes
 
-This package is intentionally **additive only**.
-It does **not** rename, relocate, overwrite, or normalize your uploaded sample folders.
-That means mixed naming such as `One_Shots` and `OneShots` remains untouched by design.
